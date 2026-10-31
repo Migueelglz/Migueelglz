@@ -1,6 +1,6 @@
 <div align="center">
 
-# Miguel González Dasilva👋
+# Miguel González Dasilva
 
 ### IT Engineer L3 | Modern Workplace | Endpoint Management
 
