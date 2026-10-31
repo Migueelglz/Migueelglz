@@ -2,6 +2,45 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:174B85,100:7437A6&height=230&section=header&text=MIGUEL%20GONZALEZ%20DASILVA&fontSize=39&fontColor=FFFFFF&desc=IT%20ENGINEER%20L3%20%7C%20MODERN%20WORKPLACE%20%7C%20AUTOMATION&descSize=16&descAlignY=68" width="100%" alt="Miguel González Dasilva" />
 
+
+<hr>
+
+<h2 align="center">
+  🐧 Welcome to MillAI World
+</h2>
+
+<h3 align="center">
+  Not just a CV. A world you can explore.
+</h3>
+
+<p align="center">
+  <strong>MillAI World is my evolving interactive CV and personal universe.</strong>
+</p>
+
+<p align="center">
+  A different way to discover who I am beyond a traditional résumé.
+  Explore my professional journey, experience, technical skills,
+  education, projects and personal interests through a virtual
+  world with a moving penguin as its protagonist.
+</p>
+
+<p align="center">
+  <em>One place to discover the person behind the profile.</em>
+</p>
+
+<p align="center">
+  <a href="https://millai.mintypeach7.chatgpt.site/">
+    <img src="https://img.shields.io/badge/ENTER_MILLAI_WORLD-EXPLORE_MY_INTERACTIVE_CV-7437A6?style=for-the-badge" alt="Explore MillAI World" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Personal project · Under active development</sub>
+</p>
+
+<hr>
+
+
 ### 👨‍💻 Enterprise IT · Endpoint Management · Automation & AI
 
 **Microsoft Intune · SCCM/MECM · PowerShell · Azure**
