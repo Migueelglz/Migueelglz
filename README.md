@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://millai.mintypeach7.chatgpt.site/">
-   <img src="./assets/millai/millai-world-cover.png" alt="MillAI World" width="100%" />
+   <img src="./assets/millai-world-cover.png" alt="MillAI World" width="100%" />
 </a>
 
 # Miguel González 👋
