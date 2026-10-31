@@ -41,7 +41,7 @@
 
 ---
 
-<h2><a href="https://millai.mintypeach7.chatgpt.site/#world">🌍 MILLAI WORLD — MY DIGITAL UNIVERSE</a></h2>
+<h2><a href="https://millai.mintypeach7.chatgpt.site/#world">🌍 MILLAI WORLD — MY DIGITAL UNIVERSE (Click on the link) </a></h2>
 
 <div align="center">
 
