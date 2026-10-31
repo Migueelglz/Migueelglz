@@ -1,631 +1,579 @@
 <div align="center">
 
-# Miguel González Dasilva
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:174B85,100:7437A6&height=230&section=header&text=MIGUEL%20GONZALEZ%20DASILVA&fontSize=39&fontColor=FFFFFF&desc=IT%20SUPPORT%20L3%20%7C%20MODERN%20WORKPLACE%20%7C%20AUTOMATION&descSize=16&descAlignY=68" width="100%" alt="Miguel González Dasilva" />
 
-### IT Engineer L3 | Modern Workplace | Endpoint Management
+### 👨‍💻 Enterprise IT · Endpoint Management · Automation & AI
 
-💼 **Microsoft Intune · SCCM/MECM · PowerShell · Azure · Automation & AI**
+**Microsoft Intune · SCCM/MECM · PowerShell · Azure · ServiceNow**
 
-📍 Asturias, Spain  
-🔗 [LinkedIn](www.linkedin.com/in/miguel-gonzález-dasilva-93337a27b) • [MillAI](https://millai.mintypeach7.chatgpt.site/)
+📍 Asturias, Spain
 
-</div>
-
----
-
-## 🚀 Professional Summary
-
-IT professional with more than 3 years of experience in enterprise technical support across **L1, L2 and L3**, with a strong focus on **endpoint management, Microsoft environments and IT operations**.
-
-My background includes hands-on work with **Microsoft Intune, SCCM/MECM, PowerShell, Active Directory, Entra ID, Azure**, supporting business-critical environments and large-scale device operations.
-
-I am currently expanding my expertise in **AI, automation, Python, APIs, cloud technologies and modern IT operations**, combining real-world support experience with continuous learning and personal projects.
-
----
-
-## 🧰 Core Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCCM%2FMECM-2B579A?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-007FFF?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active%20Directory-0A66C2?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-AI%20%26%20Scripts-black?style=for-the-badge" />
-</p>
-
----
-
-## 💼 Professional Experience
-
-### **DXC Technology Spain, S.A.**
-Enterprise IT Engineer support and endpoint management across multiple environments and clients.
-
-#### **Cajamar Bank Group — IT L3 / Device Management Operator**
-- Managed endpoint environments using **Microsoft Intune** and **SCCM/MECM**
-- Worked on **application packaging**, **PowerShell automation**, **kiosk mode**, **OMA-URI** and **Proactive Remediation**
-- Supported and administered operations involving **more than 1,000 ATMs**
-- Produced technical documentation and scripts to improve operational processes
-
-#### **FCC — IT Support L1/L2 → Service Desk Operations / Coordination**
-- Delivered technical support in enterprise environments with SLA-driven operations
-- Managed incidents, escalations and user support across multiple business areas
-- Progressed into a more responsible role involving service desk coordination and queue management
-- Worked with significant daily volume of tickets and support interactions
-
-#### **Logista Group — IT Support Operations**
-- Handled user support and operational workflows with high daily activity volume
-- Supported issue resolution, service continuity and coordination tasks
-
-#### **TEKA / EDPR — L3 Device Support**
-- Worked on **compliance**, **security policies**, **endpoint deployments** and configuration management
-- Supported device administration and enterprise rollout processes
-
----
-
-## 🛠 Technical Skills
-
-| Area | Technologies |
-|---|---|
-| Endpoint Management | Microsoft Intune, SCCM/MECM |
-| Systems | Windows 10/11, Active Directory |
-| Identity & Cloud | Microsoft Entra ID, Azure |
-| Scripting | PowerShell |
-| ITSM | ServiceNow |
-| Support | L1, L2, L3 Enterprise Support |
-| Current Learning | Python, APIs, AI, Automation, Cloud, Cybersecurity |
-
----
-
-# 🌟 FEATURED PROJECTS
-
-<a href="https://millai.mintypeach7.chatgpt.site/">
-   <img src="./assets/millai-world-cover.png" alt="MillAI World" width="100%" />
-</a>
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:213F88,100:7437A6&height=220&section=header&text=MillAI%20WORLD&fontSize=52&fontColor=FFFFFF&desc=MY%20LIFE%20%7C%20MY%20CAREER%20%7C%20MY%20UNIVERSE&descSize=17&descAlignY=75" width="100%" alt="MillAI World" />
-
-### 🐧 A WORLD TO TELL MY STORY
-
-**An interactive universe inspired by my childhood, my love for technology and my own personal journey.**
-
-![Project](https://img.shields.io/badge/PROJECT-MillAI_World-7437A6?style=for-the-badge)
-![Development](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-22A06B?style=for-the-badge)
-![Platform](https://img.shields.io/badge/PLATFORM-WEB_%7C_PC_%7C_MOBILE-2563EB?style=for-the-badge)
+<a href="https://www.linkedin.com/in/miguel-gonzalez-dasilva-93337a27b/"><img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Migueelglz"><img src="https://img.shields.io/badge/GitHub-Migueelglz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://millai.mintypeach7.chatgpt.site/#world"><img src="https://img.shields.io/badge/MillAI_World-Explore_My_Universe-7437A6?style=for-the-badge" alt="MillAI World" /></a>
 
 <br>
 
-[![Enter World](https://img.shields.io/badge/🌍_ENTER_MILLAI_WORLD-EXPLORE_MY_UNIVERSE-7437A6?style=for-the-badge)](https://millai.mintypeach7.chatgpt.site/#world)
+<img src="https://img.shields.io/badge/3%2B_YEARS-Enterprise_IT-2563EB?style=flat-square" alt="3+ years in IT" />
+<img src="https://img.shields.io/badge/L1_%7C_L2_%7C_L3-Technical_Support-0891B2?style=flat-square" alt="Support L1, L2, L3" />
+<img src="https://img.shields.io/badge/1000%2B_ATMs-Device_Environment-16A34A?style=flat-square" alt="1000+ ATMs environment" />
+<img src="https://img.shields.io/badge/AI_%26_PYTHON-Currently_Learning-7437A6?style=flat-square" alt="AI and Python: learning" />
 
 </div>
 
 ---
 
-## ✨ What Is MillAI World?
+## 👨‍💻 ABOUT ME
 
-**MillAI World is my personal universe, an interactive digital world where visitors can discover my life, professional experience, projects, interests and ambitions.**
+![About Me](https://capsule-render.vercel.app/api?type=rounded&color=0:0B1020,50:19426F,100:326C9E&height=100&text=BEHIND%20THE%20PROFILE&fontSize=27&fontColor=FFFFFF)
 
-Instead of introducing myself through a traditional portfolio or a multi-page CV, I wanted to create an entirely different experience.
-
-A place where you don't simply read about me.
-
-**You explore my story.**
-
-The experience is built around a virtual world, with a moving penguin character as its main protagonist.
-
-Through this character, visitors can navigate environments, discover rooms and explore different aspects of my life.
-
-The project combines several of my personal interests:
-
-- 🐧 Virtual characters and interactive exploration
-- 🎮 The online worlds that shaped my childhood
-- 🖥️ Desktop operating systems and interface design
-- 🍎 The visual experience of macOS and iPhone
-- 🤖 Artificial intelligence and automation
-- 💼 My professional experience in information technology
-- 🌍 My personal story, interests and projects
-
-**MillAI World is an evolving interactive representation of who I am.**
+> ### Hello, I'm Miguel! 👋
+>
+> I'm an IT professional with **more than three years of experience** in enterprise technical support, endpoint management and IT operations.
+>
+> My professional experience spans **L1, L2 and L3 support**, with hands-on work involving Microsoft Intune, SCCM/MECM, PowerShell, Active Directory, Azure and ServiceNow.
+>
+> I've worked in enterprise environments involving banking, infrastructure, environmental services and logistics.
+>
+> I'm currently expanding my knowledge of **artificial intelligence, automation, Python, APIs, cloud and cybersecurity**.
+>
+> Alongside my IT career, I'm building **MillAI World**, an interactive virtual universe that brings together my professional journey, personal interests and projects.
 
 ---
 
-# 📖 THE STORY BEHIND MILLAI WORLD
+<h2><a href="https://millai.mintypeach7.chatgpt.site/#world">🌍 MILLAI WORLD — MY DIGITAL UNIVERSE</a></h2>
 
 <div align="center">
 
-### FROM A PRIVATE IDEA TO A PUBLIC VIRTUAL UNIVERSE
+<a href="https://millai.mintypeach7.chatgpt.site/#world"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:070E1E,45:174B85,100:8038B5&height=165&text=MILLAI%20WORLD&fontSize=47&fontColor=FFFFFF&fontAlignY=39&desc=MY%20LIFE%20-%20MY%20CAREER%20-%20MY%20UNIVERSE&descSize=16&descAlignY=75" width="100%" alt="Enter MillAI World" /></a>
+
+<a href="https://millai.mintypeach7.chatgpt.site/#world"><img src="./assets/millai-world-cover.png" width="100%" alt="MillAI World — conceptual illustration" /></a>
+
+<sub>Conceptual illustration — MillAI World is under active development.</sub>
+
+### 🐧 One Penguin. One World. My Entire Story.
+
+**What if a personal portfolio became a virtual world you could explore?**
+
+<img src="https://img.shields.io/badge/PROJECT-INTERACTIVE_WORLD-7437A6?style=for-the-badge" alt="Interactive world" />
+<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-16A34A?style=for-the-badge" alt="In development" />
+<img src="https://img.shields.io/badge/EXPERIENCE-PC_%26_MOBILE-2563EB?style=for-the-badge" alt="PC and mobile" />
+
+<br><br>
+
+<a href="https://millai.mintypeach7.chatgpt.site/#world"><img src="https://img.shields.io/badge/ENTER_MILLAI_WORLD-EXPLORE_NOW-7437A6?style=for-the-badge" alt="Explore MillAI World" /></a>
+
+</div>
+
+---
+
+## ✨ WHAT IS MILLAI WORLD?
+
+> ### 🐧 A Different Way to Introduce Myself
+>
+> **MillAI World is my interactive personal universe.**
+>
+> Instead of presenting my story through a traditional CV or static website, I'm creating a virtual world where visitors can explore my life, professional experience, projects and interests.
+>
+> The main character is a **moving penguin** that navigates virtual environments, discovers different rooms and interacts with the world.
+>
+> The project combines the nostalgia of childhood virtual games with modern interface design, technology and artificial intelligence.
+>
+> **Don't just read about my story. Explore it.**
+
+---
+
+## 📖 THE STORY BEHIND MILLAI WORLD
+
+![The Story](https://capsule-render.vercel.app/api?type=rounded&color=0:101329,50:493084,100:8846B6&height=125&text=HOW%20IT%20ALL%20BEGAN&fontSize=33&fontColor=FFFFFF&desc=FROM%20A%20PRIVATE%20IDEA%20TO%20A%20VIRTUAL%20WORLD&descSize=13&descAlignY=78)
+
+<div align="center">
+
+**FROM A PRIVATE IDEA TO A PUBLIC VIRTUAL UNIVERSE**
 
 *How a small personal experiment became my most ambitious creative project.*
 
 </div>
 
----
+### 🗺️ Explore the Chapters
 
-## 💡 CHAPTER 01 — THE ORIGINAL IDEA
+| Chapter | The Story |
+|---|---|
+| 💡 **01** | The Original Idea |
+| 🎮 **02** | The Games That Inspired Me |
+| 🏠 **03** | The First Room |
+| 🐧 **04** | The Penguin |
+| 🌍 **05** | The Idea That Changed Everything |
+| 🍎 **06** | macOS & iPhone Inspiration |
+| 🛠️ **07** | The Development Journey |
+| ❤️ **08** | Why I'm Building This |
+
+*Click each chapter to expand its story.*
+
+<details>
+<summary><b>💡 CHAPTER 01 — THE ORIGINAL IDEA</b></summary>
 
 ### It Was Never Supposed to Be Public
 
 MillAI World started as a completely private project.
 
-I wasn't thinking about creating a professional portfolio, publishing a website or building something for other people to explore.
+I wasn't planning to create a professional portfolio or a public website.
 
 **I simply wanted to change how I interacted with my own computer.**
 
-The original idea was to replace the traditional desktop starting experience with an interactive application that could launch automatically when I turned on my PC.
+The original concept was an application that would launch automatically when I turned on my PC.
 
-Instead of using only windows, folders and icons, I imagined a virtual environment controlled by a character.
+Instead of accessing everything through traditional windows, folders and desktop icons, I imagined a virtual environment controlled by a character.
 
 Each room would represent a different function of my computer.
 
-For example:
-
-| 🏠 Virtual Room | 💻 Original Idea |
+| Virtual Room | Original Purpose |
 |---|---|
-| 🌐 Browser Room | Access my web browser |
-| 📁 Documents Room | Explore my computer documents |
-| 🎵 Music Room | Manage music and multimedia |
-| 💬 Communication Room | Access messages and connected services |
-| ⚙️ Settings Room | Control application preferences |
-| 🤖 AI Room | Interact with a personal AI assistant |
+| 🌐 Browser | Open and use the web browser |
+| 📁 Documents | Access local documents |
+| 🎵 Music | Control music and multimedia |
+| 💬 Communication | Access connected services |
+| ⚙️ Settings | Manage application preferences |
+| 🤖 AI | Interact with a personal assistant |
 
-The intention was to create something resembling a **small interactive operating system inside an application**.
+The goal was to create something similar to a **small operating-system-like experience inside an application**.
 
-Not an actual replacement for Windows, but a different interface through which I could access its functionality.
+Not to replace Windows, but to give my computer a completely different interface.
 
-At that stage, it was just an idea for my personal computer.
+At that point, the project was intended only for my own use.
 
----
+</details>
 
-## 🎮 CHAPTER 02 — THE GAMES THAT INSPIRED ME
+<details>
+<summary><b>🎮 CHAPTER 02 — THE GAMES THAT INSPIRED ME</b></summary>
 
 ### A Little Piece of My Childhood
 
-The inspiration behind MillAI World comes from two virtual worlds that had a special place in my childhood.
+Two games played a particularly important role in shaping my vision.
 
-### 🏨 Habbo Hotel
+**Habbo Hotel** fascinated me with its isometric rooms, furniture, social environments and freedom to explore and customize virtual spaces.
 
-Habbo was one of the main inspirations for the project.
+**Club Penguin** gave me the experience of exploring an entire world through a penguin character, discovering locations and interacting with the environment.
 
-What fascinated me was the possibility of entering a virtual environment, navigating different rooms, interacting with objects and creating personal spaces.
+Both games were an important part of my childhood.
 
-Its isometric environments, furniture, rooms and social interaction influenced the visual direction I wanted to explore.
+I wanted to recover that feeling of exploration and bring it into something personal, combining nostalgic inspiration with modern functionality.
 
-### 🐧 Club Penguin
+The project is not intended to recreate those games, but to build an independent universe inspired by what made them memorable.
 
-Club Penguin was another important inspiration.
+</details>
 
-The idea of controlling a penguin, exploring locations and discovering an entire world through a simple character had always appealed to me.
-
-That connection eventually became one of the most recognizable elements of MillAI World.
-
-**A penguin would become the main character of my own virtual universe.**
-
-The project isn't intended to reproduce those games.
-
-Instead, I wanted to capture the sense of exploration, creativity and discovery that made them memorable to me, while building something with its own identity and purpose.
-
----
-
-## 🏠 CHAPTER 03 — THE FIRST ROOM
+<details>
+<summary><b>🏠 CHAPTER 03 — THE FIRST ROOM</b></summary>
 
 ### Every World Has to Start Somewhere
 
 The first experiments were much simpler than the world I'm developing today.
 
-The original concept involved a character designed around 3D modelling and a small environment with an initial room.
+The project started around a character conceived with a 3D modelling approach and a small virtual environment.
 
-From there, I began exploring the possibility of creating several connected spaces.
+Initially, the focus was on a room and the idea of creating additional interconnected spaces.
 
-Each room would have its own appearance, objects and purpose.
+Each room would have its own purpose, appearance and functionality.
 
-The focus was on experimenting with character movement, environments and interactions.
+I began exploring movement, room layouts and ways of turning ordinary computer tasks into virtual interactions.
 
 **One character. One room. One idea.**
 
-Over time, the concept evolved into a larger virtual world, eventually taking shape around its penguin protagonist.
+What began as a small experiment gradually became a much larger project.
 
----
+</details>
 
-## 🐧 CHAPTER 04 — THE PENGUIN
+<details>
+<summary><b>🐧 CHAPTER 04 — THE PENGUIN</b></summary>
 
-### Meet the Main Character of MillAI World
+### Meet the Main Character
 
-<div align="center">
+The penguin became the main character of MillAI World.
 
-### 🐧 YOUR CHARACTER. YOUR JOURNEY.
+Its design direction was influenced by the virtual worlds I enjoyed during my childhood, especially Club Penguin.
 
-**A little penguin exploring a much bigger world.**
+I wanted visitors to experience the world by controlling a recognizable character rather than navigating only through conventional menus.
 
-</div>
+The experience is centered around:
 
-The penguin is one of the most important parts of the project.
+- 🐧 Penguin movement and animation
+- 🏠 Navigation between rooms
+- 🌍 Exploration of virtual environments
+- 🖱️ Interaction with objects and interfaces
+- 🚪 Discovering spaces connected to my personal story
+- ✨ A more playful and memorable experience
 
-Inspired by the virtual worlds I enjoyed growing up, I wanted a recognizable character that could move through the environment and make exploration feel more like playing a game than browsing a website.
+Developing movement, interactions and animations is an important part of the project.
 
-The penguin serves as the main character through which visitors experience the world.
+**The penguin gives MillAI World its own identity.**
 
-The intended experience revolves around:
+</details>
 
-- 🐧 Moving through virtual environments
-- 🚶 Navigating between rooms and locations
-- 🏠 Discovering different interactive spaces
-- 🖱️ Interacting with objects and interfaces
-- 🌍 Exploring my personal and professional story
-- ✨ Making the experience feel playful and memorable
-
-Character movement, animation, room navigation and interaction design are central parts of the development process.
-
-**The penguin gives MillAI World its personality.**
-
-It transforms the idea of a portfolio into something closer to an interactive adventure.
-
----
-
-## 🌍 CHAPTER 05 — THE IDEA THAT CHANGED EVERYTHING
+<details>
+<summary><b>🌍 CHAPTER 05 — THE IDEA THAT CHANGED EVERYTHING</b></summary>
 
 ### What If My Portfolio Was a Virtual World?
 
-At some point during development, I began to see the project from a completely different perspective.
+During development, I began to see the project from a different perspective.
 
-The original idea had been to create an interactive environment for my computer.
+The original idea was to create an interactive environment for my computer.
 
-But then I asked myself a question:
+Then I realized that the same world could become a unique way to introduce myself to other people.
 
-**What if I could use this world to introduce myself to other people?**
+**What if my personal and professional story could be explored like a virtual adventure?**
 
-Instead of building a conventional professional website, I could create a digital universe where visitors explored my experience, education, interests and projects.
+My professional career could become a collection of interactive environments.
 
-My professional history could become a collection of interactive spaces.
+My projects could have their own rooms.
 
-My projects could have their own locations.
+My education and personal interests could become part of the world.
 
-My personal interests could become part of the environment.
-
-And visitors could discover everything by navigating a virtual world.
+Instead of reading a conventional CV, visitors could explore the different aspects of my life.
 
 That was the turning point.
 
-**MillAI World stopped being just a private desktop experiment and became my vision for an interactive personal portfolio.**
+**MillAI World evolved from a private desktop experiment into a public interactive portfolio.**
 
-I wanted to offer people a different way to discover who I am.
+</details>
 
-Something more entertaining, memorable and personal than a traditional CV.
+<details>
+<summary><b>🍎 CHAPTER 06 — MACOS & IPHONE INSPIRATION</b></summary>
 
----
+### Combining Virtual Worlds with Modern Interfaces
 
-## 🍎 CHAPTER 06 — THE MACOS & IPHONE INSPIRATION
+As the project evolved, I wanted to introduce another of my interests: Apple's approach to user interface design.
 
-### Bringing My Love for Apple Interfaces Into the World
+I've always been particularly interested in macOS and iPhone interfaces, including their visual organization, transitions and overall user experience.
 
-As MillAI World evolved into a public-facing project, I wanted to incorporate another of my personal interests.
+The new direction was to create a web application with a desktop-inspired experience combined with a virtual world.
 
-I've always been particularly interested in the design and user experience of Apple's operating systems and devices.
+The design vision includes:
 
-The appearance, animations, interface organization and relationship between macOS and iPhone inspired a new direction.
-
-I wanted to combine a virtual game-like environment with a familiar desktop experience.
-
-The vision includes:
-
-| 🖥️ Interface Element | ✨ Design Direction |
+| Element | Design Direction |
 |---|---|
-| Desktop Environment | Visual inspiration from macOS |
-| Application Launcher | Desktop-style application navigation |
-| Windows & Panels | Familiar desktop interface patterns |
-| Mobile Experience | iPhone-inspired visual elements |
-| Interactive Transitions | Smooth movement between interfaces |
-| Virtual World | A separate explorable universe |
-| Responsive Layout | An experience adapted for PC and mobile |
+| 🖥️ Desktop | macOS-inspired interface |
+| 📱 Mobile | iPhone-inspired elements |
+| 🪟 Windows | Desktop-style panels |
+| 🚀 Launcher | Application navigation |
+| 🐧 Virtual World | Interactive exploration |
+| ✨ Transitions | Smooth navigation and animation |
 
-The idea was to create a web experience that felt familiar but remained completely personal.
-
-Visitors would interact with a desktop-inspired interface and enter the virtual world from there.
-
-**A combination of my passion for operating systems, childhood virtual worlds and modern web design.**
+The aim is to support desktop and mobile devices while preserving the character of the experience.
 
 MillAI World is an independent personal project and is not affiliated with Apple, Habbo or Club Penguin.
 
----
+</details>
 
-## 🛠️ CHAPTER 07 — THE DEVELOPMENT JOURNEY
+<details>
+<summary><b>🛠️ CHAPTER 07 — THE DEVELOPMENT JOURNEY</b></summary>
 
 ### The Details Take More Time Than You Imagine
 
-Building MillAI World has been a much longer and more demanding process than I originally expected.
+Developing MillAI World has been a much longer process than I originally expected.
 
-It's easy to imagine a virtual world.
+Creating a virtual world involves much more than designing rooms.
 
-Actually developing one is another challenge entirely.
+It requires work on:
 
-Every part of the project requires attention.
+- 🎨 Visual assets, buildings and environments
+- 🐧 Penguin movement, animation and interaction
+- 🏠 Room layouts, navigation and object placement
+- 💻 Application structure and code organization
+- 📱 Responsive design and mobile usability
+- 🔗 Integrations, APIs and connected services
+- 🧪 Testing, troubleshooting and continuous refinement
 
-### 🎨 Visual Design
+Sometimes a small visual change leads to reviewing several parts of the application.
 
-Rooms, buildings, furniture, backgrounds, interface elements and visual consistency all need to work together.
+Correcting overlapping elements, movement problems, inconsistent designs and interface behaviour takes time.
 
-### 🐧 Character Movement
+But the process is also incredibly rewarding.
 
-The penguin's movement, animations, interactions and relationship with the environment need to feel natural and logical.
+Every improvement brings the project closer to the experience I imagined.
 
-### 🏠 Virtual Environments
+**Building MillAI World is also helping me develop new technical skills through practical experimentation.**
 
-Rooms require careful layout, positioning, navigation and interaction design.
+</details>
 
-### 💻 Web Development
-
-The application needs a functional structure, responsive layouts and maintainable code.
-
-### 📱 Mobile Compatibility
-
-Adapting an interactive virtual world to a smaller screen introduces additional challenges.
-
-### 🔗 Integrations
-
-External services, artificial intelligence and automation require technical planning, testing and implementation.
-
-### 🧪 Testing & Iteration
-
-A significant part of the process involves reviewing code, identifying problems, correcting visual inconsistencies and refining existing features.
-
-Sometimes a seemingly small change requires a considerable amount of work.
-
-But that's also one of the things I find most rewarding about the project.
-
-**Every improvement is another step towards the world I want to create.**
-
----
-
-## ❤️ CHAPTER 08 — WHY I'M BUILDING THIS
+<details>
+<summary><b>❤️ CHAPTER 08 — WHY I'M BUILDING THIS</b></summary>
 
 ### More Than a Portfolio
 
-MillAI World is a combination of several things I genuinely enjoy.
+MillAI World brings together several things that genuinely interest me:
 
-Technology, video games, virtual environments, design, artificial intelligence and the challenge of building something of my own.
+Technology, video games, virtual environments, design, artificial intelligence and creative experimentation.
 
-It's also an opportunity to learn new technologies and develop skills beyond my existing experience in enterprise IT.
+It is an opportunity to keep learning while creating something personal.
 
-But the most important reason is personal.
+My goal is to build a place where my career, education, projects, interests and future ambitions can coexist.
 
-I want to create a place that reflects who I am.
+I want visitors to understand who I am through an experience that feels different from reading a traditional CV.
 
-A place where my professional experience, education, projects, personal interests and future ambitions can coexist.
+Not simply a collection of dates, company names and responsibilities.
 
-I want someone visiting MillAI World to discover my journey in a way that feels different from reading a conventional CV.
+**An interactive world that reflects my story.**
 
-Not just a collection of dates, company names and responsibilities.
+What started as an experiment for my own computer is gradually becoming something I can share with other people.
 
-**An experience that people can explore, interact with and remember.**
+> I started by wanting to make my computer more interactive. Now I'm building a world where people can discover who I am.
 
-The project is still evolving, and there is plenty of work ahead.
-
-But seeing an idea that originally existed only in my imagination gradually become an interactive world makes the process genuinely rewarding.
-
-> I started by wanting to make my own computer more interactive. Now I'm building a world where other people can discover who I am.
+</details>
 
 ---
 
-# 🗺️ THE EVOLUTION OF MILLAI WORLD
+## 🗺️ THE EVOLUTION OF MILLAI WORLD
 
-<div align="center">
+![MillAI Evolution](https://capsule-render.vercel.app/api?type=rect&color=0:11203D,50:3656A0,100:7539A6&height=108&text=FROM%20ONE%20ROOM%20TO%20A%20WORLD&fontSize=26&fontColor=FFFFFF)
 
-### FROM ONE ROOM TO AN ENTIRE UNIVERSE
-
-</div>
-
-| Stage | Milestone | Description |
+| Stage | Milestone | Evolution |
 |:---:|---|---|
-| 💡 01 | The Original Concept | A private interactive desktop application |
-| 🎮 02 | Childhood Inspiration | Habbo Hotel and Club Penguin influenced the concept |
-| 🏠 03 | First Experiments | A character, an initial room and connected spaces |
-| 🐧 04 | The Penguin | A moving penguin became the main character |
-| 🌍 05 | A Public Vision | The project evolved into an interactive personal portfolio |
-| 🍎 06 | Desktop Evolution | macOS-inspired design and iPhone-inspired elements |
-| 📱 07 | Web Experience | Development for desktop and mobile environments |
-| 🤖 08 | AI & Integration | Exploring AI assistants, connected tools and automation |
-| 🚀 09 | Future Expansion | More locations, interactions and personal experiences |
+| 💡 01 | Original Idea | A private interactive desktop application |
+| 🎮 02 | Inspiration | Habbo Hotel and Club Penguin |
+| 🏠 03 | First Experiments | A character and connected virtual rooms |
+| 🐧 04 | The Penguin | A moving character became the protagonist |
+| 🌍 05 | Public Vision | An interactive personal portfolio |
+| 🍎 06 | Desktop Experience | macOS and iPhone-inspired design |
+| 📱 07 | Web Experience | Development for PC and mobile |
+| 🤖 08 | AI Exploration | Assistants, services and automation |
+| 🚀 09 | Future | New environments and interactive experiences |
 
 ---
 
-# 🏙️ EXPLORE THE MILLAI UNIVERSE
+## 🏙️ EXPLORE THE UNIVERSE
 
-<div align="center">
+![Explore MillAI](https://capsule-render.vercel.app/api?type=rounded&color=0:0D1938,50:274C9D,100:8543BD&height=112&text=EXPLORE%20MY%20UNIVERSE&fontSize=31&fontColor=FFFFFF&desc=ONE%20WORLD%20-%20MANY%20STORIES&descSize=14&descAlignY=78)
 
-### ONE WORLD. MANY STORIES.
-
-</div>
-
-| 🌐 Experience | ✨ What You'll Discover |
+| 🐧 Virtual Experience | 🌟 What It Represents |
 |---|---|
-| 🐧 **The Penguin** | The main character exploring the virtual world |
-| 🏙️ **MillAI City** | Virtual environments, streets, buildings and locations |
-| 💼 **My Professional Journey** | Enterprise IT experience and career development |
-| 🏢 **Companies & Clients** | The organizations and environments I've worked with |
-| 🎓 **Education & Learning** | My academic background and technical training |
-| 🚀 **My Projects** | Technology projects, experiments and initiatives |
-| 🧑 **Personal Interests** | The experiences and passions that define me |
-| 🤖 **Milly AI** | My vision for a personal AI assistant within the world |
-| 🖥️ **Desktop Experience** | A desktop-inspired interface for accessing the experience |
-| 🌍 **Future Worlds** | New environments and functionalities as the project grows |
+| 🐧 **The Penguin** | The main character exploring the world |
+| 🏙️ **MillAI City** | Virtual environments, locations and buildings |
+| 💼 **Professional Journey** | My experience in enterprise IT |
+| 🎓 **Education** | My academic background and training |
+| 🚀 **Projects** | Software, IT and AI initiatives |
+| 🧑 **Personal World** | My personal interests and experiences |
+| 🤖 **Milly AI** | My vision for a personalized AI assistant |
+| 🖥️ **Desktop** | A desktop-inspired interface |
+| 🌐 **Future Worlds** | New locations and interactive features |
 
-*Some features are available in the current version, while others are part of the long-term development roadmap.*
+*The project is under active development. Some areas are part of the current experience, while others form part of the development roadmap.*
 
 ---
 
-# ⚙️ TECHNOLOGIES & AREAS OF DEVELOPMENT
+## 📸 DEVELOPMENT GALLERY
+
+![Development Gallery](https://capsule-render.vercel.app/api?type=rounded&color=0:132039,50:28588D,100:6556A6&height=100&text=BEHIND%20THE%20SCENES&fontSize=30&fontColor=FFFFFF)
+
+| 🐧 The Penguin | 🏙️ MillAI City |
+|---|---|
+| Main character, movement and interactive exploration. **Screenshots coming soon.** | Virtual locations, rooms and environments. **Screenshots coming soon.** |
+| 🖥️ Desktop Interface | 📱 Mobile Experience |
+| macOS-inspired application design. **Screenshots coming soon.** | Responsive layouts and mobile interface. **Screenshots coming soon.** |
+
+---
+
+## 🚧 CURRENT DEVELOPMENT STATUS
+
+> ### 🟢 Active Development
+>
+> MillAI World is an evolving personal project.
+>
+> Development efforts focus on visual consistency, interactive environments, character navigation, responsive interfaces and application functionality.
+>
+> ### 🔮 Future Vision
+>
+> The long-term vision includes additional environments, richer interactions, AI assistance, connected services and an increasingly complete personal universe.
+>
+> **Planned features are not presented as completed functionality until implemented and tested.**
 
 <div align="center">
 
-![Web](https://img.shields.io/badge/WEB_DEVELOPMENT-2563EB?style=for-the-badge)
-![UIUX](https://img.shields.io/badge/UI%2FUX_DESIGN-7C3AED?style=for-the-badge)
-![AI](https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-0891B2?style=for-the-badge)
-![Automation](https://img.shields.io/badge/AUTOMATION-334155?style=for-the-badge)
-
-![Responsive](https://img.shields.io/badge/RESPONSIVE_DESIGN-16A34A?style=for-the-badge)
-![Virtual](https://img.shields.io/badge/VIRTUAL_WORLDS-9333EA?style=for-the-badge)
-![APIs](https://img.shields.io/badge/API_INTEGRATIONS-0F766E?style=for-the-badge)
-
-</div>
-
-MillAI World is also part of my technical learning journey.
-
-It gives me the opportunity to explore and develop skills in:
-
-- Frontend development and application architecture
-- Responsive interfaces and cross-device experiences
-- UI/UX design and visual composition
-- Interactive virtual environments
-- Character navigation and animation
-- Artificial intelligence and language models
-- AI agents and assistant integration
-- APIs and external services
-- Automation and application workflows
-- Testing, debugging and continuous improvement
-
-The project combines my established experience in IT operations with new skills I'm actively learning.
-
----
-
-# 📸 DEVELOPMENT GALLERY
-
-### A Look Inside MillAI World
-
-This gallery will document the project's evolution using real screenshots.
-
-**🐧 The Penguin & Virtual World**
-
-Character movement, room navigation and interactive environments.
-
-**🏙️ MillAI City**
-
-The virtual city, public spaces and locations.
-
-**🖥️ Desktop-Inspired Interface**
-
-The application launcher, desktop experience and visual design.
-
-**📱 Mobile Experience**
-
-How MillAI World adapts to mobile devices.
-
-**🏠 Rooms & Interactive Spaces**
-
-The different rooms, their designs and their purpose.
-
-*Screenshots and visual documentation will be added as development progresses.*
-
----
-
-# 🚧 CURRENT STATUS & FUTURE VISION
-
-<div align="center">
-
-![Status](https://img.shields.io/badge/PROJECT_STATUS-ACTIVE_DEVELOPMENT-16A34A?style=for-the-badge)
-![Roadmap](https://img.shields.io/badge/ROADMAP-CONTINUOUS_EVOLUTION-2563EB?style=for-the-badge)
-
-</div>
-
-MillAI World is an evolving personal project.
-
-Its development includes continuous experimentation with virtual environments, movement, interaction design, responsive interfaces and new functionality.
-
-My long-term vision is to bring together my entire personal and professional story within an increasingly immersive virtual world.
-
-Future improvements will focus on expanding the environment, refining interactions, improving visual quality and exploring additional integrations.
-
-Features described as part of the vision should not be considered complete until they have been implemented and tested.
-
----
-
-<div align="center">
-
-# 🚪 WELCOME TO MY WORLD
-
-### MY LIFE · MY CAREER · MY PROJECTS · MY UNIVERSE
-
-**Don't just read about my story. Explore it.**
-
-[![Explore MillAI](https://img.shields.io/badge/🌍_EXPLORE_MILLAI_WORLD-ENTER_MY_UNIVERSE-7437A6?style=for-the-badge)](https://millai.mintypeach7.chatgpt.site/#world)
-
-### [🐧 ENTER MILLAI WORLD](https://millai.mintypeach7.chatgpt.site/#world)
-
-*One penguin. One virtual universe. An entirely personal story.*
+<a href="https://millai.mintypeach7.chatgpt.site/#world"><img src="https://img.shields.io/badge/EXPLORE_MILLAI_WORLD-VISIT_THE_PROJECT-7437A6?style=for-the-badge" alt="Visit MillAI World" /></a>
 
 </div>
 
 ---
 
-# 🤖 OTHER PROJECTS
+## 💼 PROFESSIONAL EXPERIENCE
 
-## 🧠 OpsArena — AI for IT Support
+![Professional Experience](https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:164D7D,100:336FA4&height=105&text=MY%20PROFESSIONAL%20JOURNEY&fontSize=29&fontColor=FFFFFF)
 
-![Status](https://img.shields.io/badge/STATUS-PLANNING-DAA520?style=flat-square)
-![Area](https://img.shields.io/badge/AREA-AI_%26_IT_AUTOMATION-2563EB?style=flat-square)
+**Enterprise IT Support · Endpoint Management · Service Desk Operations**
 
-OpsArena is a planned technical project focused on exploring practical applications of artificial intelligence in enterprise IT support.
+### 🏢 DXC Technology Spain, S.A.
 
-The concept is based on my professional experience in L1, L2 and L3 environments.
+My experience at DXC Technology includes several corporate client environments, technical support assignments and endpoint management responsibilities.
 
-### Planned Areas
+### 🏦 Cajamar Bank Group
 
-- AI-assisted incident classification
-- Knowledge base integration
-- IT troubleshooting workflows
-- PowerShell and Python automation
-- API integrations
-- Practical AI agents for IT support
+> **IT L3 — Device Management Operator** · January 2024 – August 2024
+>
+> ![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat-square) ![MECM](https://img.shields.io/badge/SCCM%2FMECM-2563EB?style=flat-square) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square)
+>
+> - Microsoft Intune and SCCM/MECM administration
+> - Software packaging and application deployments
+> - PowerShell automation and technical scripting
+> - Kiosk mode, OMA-URI and Proactive Remediation
+> - Endpoint troubleshooting and technical documentation
+> - Device management operations involving more than **1,000 ATMs**
 
-**Current status:** Concept and learning phase.
+### 🏗️ FCC Group
+
+> **IT Support L1/L2 → Service Desk Coordination** · August – December 2024 | June 2025 – September 2026
+>
+> ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square) ![ITSM](https://img.shields.io/badge/ITSM-2563EB?style=flat-square)
+>
+> **First stage — Technical Support**
+> - Enterprise L1/L2 user assistance
+> - Approximately 50 daily support interactions
+> - Incident resolution and escalation management
+> - Ticket queues, SLAs and technical documentation
+> - Support in Spanish and English
+>
+> **Second stage — Operational Coordination**
+> - Greater responsibility in service desk operations
+> - Queue monitoring, incident prioritization and escalations
+> - Coordination in an environment involving approximately 60 agents
+> - Documentation and operational follow-up
+
+### 📦 Logista Group
+
+> **IT Support & Operational Coordination** · January 2025 – May 2025
+>
+> ![Support](https://img.shields.io/badge/IT_Support-2563EB?style=flat-square) ![Operations](https://img.shields.io/badge/Operations-334155?style=flat-square)
+>
+> - End-user support and incident resolution
+> - Operational issue management in a logistics environment
+> - Coordination of distribution and messaging incidents
+> - SLA-oriented technical assistance
+> - High-volume periods exceeding **100 daily interactions**
+
+### 💻 TEKA & EDPR
+
+> **L3 Endpoint & Device Support**
+>
+> ![Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat-square) ![MECM](https://img.shields.io/badge/SCCM%2FMECM-2563EB?style=flat-square)
+>
+> - Microsoft Intune and SCCM/MECM operations
+> - Device configuration, compliance and security policies
+> - Application and operating system deployments
+> - Deployment rings and endpoint troubleshooting
+> - Enterprise device administration
+
+### 🎓 My First Steps — DXC Internship
+
+> **Higher Vocational Training Internship — ASIR** · April – June 2023 | Approximately 380 hours
+>
+> My first enterprise IT experience included Microsoft Azure and Intune, desktop and mobile device management, Windows deployment and device preparation, BIOS configuration, technical troubleshooting, reporting and support operations.
 
 ---
 
-## 🎫 RT — Request Tracker
+## 🛠️ TECHNICAL EXPERTISE
 
-![Status](https://img.shields.io/badge/STATUS-ACADEMIC_PROJECT-16A34A?style=flat-square)
-![Area](https://img.shields.io/badge/AREA-IT_SERVICE_MANAGEMENT-2563EB?style=flat-square)
-
-My final ASIR academic project involved the deployment and configuration of an IT ticket management environment using Request Tracker.
-
-### Technical Components
-
-- Ubuntu virtual machines
-- Apache web server
-- MySQL database
-- Request Tracker
-- Virtual networking
-- User roles and permissions
-- Incident and service request workflows
-
-This project allowed me to apply systems administration concepts to a practical IT service management scenario.
-
----
+![Technical Expertise](https://capsule-render.vercel.app/api?type=rounded&color=0:091725,50:125D75,100:247F9C&height=100&text=TECHNOLOGIES%20AND%20SKILLS&fontSize=28&fontColor=FFFFFF)
 
 <div align="center">
 
-### 💻 MORE PROJECTS COMING SOON
-
-*Learning, experimenting and building new things.*
+<img src="https://skillicons.dev/icons?i=windows,azure,powershell&theme=dark" alt="Windows, Azure and PowerShell" />
 
 </div>
 
+### 💻 Endpoint Management
 
-## 🎯 Professional Interests
+![Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge) ![SCCM](https://img.shields.io/badge/SCCM%2FMECM-2563EB?style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows_10%2F11-0078D6?style=for-the-badge)
 
-**Modern Workplace · Endpoint Engineering · IT Automation · Systems Administration · AI Applied to IT**
+### ☁️ Systems & Cloud
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge) ![AD](https://img.shields.io/badge/Active_Directory-334155?style=for-the-badge) ![Entra](https://img.shields.io/badge/Microsoft_Entra_ID-2563EB?style=for-the-badge)
+
+### ⚙️ Automation & IT Service Management
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge) ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge) ![ITSM](https://img.shields.io/badge/IT_Service_Management-334155?style=for-the-badge)
+
+### 📚 Currently Learning
+
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge) ![AI](https://img.shields.io/badge/Generative_AI-Learning-7437A6?style=for-the-badge) ![APIs](https://img.shields.io/badge/APIs-Learning-0891B2?style=for-the-badge) ![Cloud](https://img.shields.io/badge/Cloud_%26_Security-Learning-334155?style=for-the-badge)
 
 ---
 
+## 🚀 OTHER PROJECTS
+
+![Other Projects](https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:303F7B,100:653C9F&height=105&text=PROJECTS%20AND%20EXPERIMENTS&fontSize=29&fontColor=FFFFFF)
+
+| 🤖 OpsArena — AI for IT Support | 🎫 RT — Request Tracker |
+|---|---|
+| **Status: Planning** | **Status: ASIR academic project** |
+| A planned project exploring AI-assisted support workflows: incident classification, knowledge base integration, automated troubleshooting, PowerShell/Python and APIs. | A ticket management environment using Ubuntu VMs, Apache, MySQL, Request Tracker, virtual networks, roles and ticket workflows. |
+
+---
+
+## 🎓 EDUCATION & CONTINUOUS LEARNING
+
+![Education](https://capsule-render.vercel.app/api?type=rounded&color=0:0D2038,50:225A84,100:4B649E&height=103&text=ALWAYS%20LEARNING&fontSize=31&fontColor=FFFFFF)
+
+### 🎓 Higher Vocational Training — ASIR
+
+**Administración de Sistemas Informáticos en Red**
+
+Advanced vocational training in networked computer systems administration.
+
+### 🧠 Current Technical Learning
+
+| Area | Learning Focus |
+|---|---|
+| 🤖 Generative AI | Language models and AI foundations |
+| 🐍 Python | Programming and automation |
+| 🔗 APIs | Application and service integrations |
+| 🧠 AI Agents | Intelligent workflows and assistants |
+| ☁️ Cloud | Microsoft cloud technologies |
+| 🛡️ Cybersecurity | Security and endpoint protection |
+| 💻 Modern Workplace | Enterprise endpoint administration |
+
+**Learning through practical projects, technical documentation and continuous experimentation.**
+
+---
+
+## ⚽ BEYOND TECHNOLOGY
+
+Technology is my profession, but my interests go beyond IT.
+
+I'm passionate about football, virtual worlds, interactive experiences and the opportunities created by artificial intelligence.
+
+One of my professional ambitions is to explore opportunities where technology and football come together.
+
+MillAI World also provides a place to represent my personal interests within a creative environment.
+
+---
+
+## 🎯 PROFESSIONAL DIRECTION
+
 <div align="center">
 
-### 🤝 Connect with me
+**Modern Workplace · Endpoint Engineering · Systems Administration**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](AQUI_TU_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Miguelglz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Miguelglz)
-[![MillAI](https://img.shields.io/badge/MillAI-Project-8A2BE2?style=for-the-badge)](https://millai.mintypeach7.chatgpt.site/#world)
+**IT Automation · AI Applied to IT · Enterprise Technology**
+
+</div>
+
+---
+
+## 🤝 LET'S CONNECT
+
+![Contact](https://capsule-render.vercel.app/api?type=rounded&color=0:0B1020,50:204C87,100:7437A6&height=110&text=LET%27S%20CONNECT&fontSize=34&fontColor=FFFFFF)
+
+<div align="center">
+
+**Interested in my experience or projects?**
+
+<a href="https://www.linkedin.com/in/miguel-gonzalez-dasilva-93337a27b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Migueelglz"><img src="https://img.shields.io/badge/GitHub-My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://millai.mintypeach7.chatgpt.site/#world"><img src="https://img.shields.io/badge/MillAI_World-Explore-7437A6?style=for-the-badge" alt="MillAI World" /></a>
+
+### 🐧 Thanks for visiting my GitHub profile!
+
+*My life. My career. My projects. My world.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:174B85,100:7437A6&height=110&section=footer" width="100%" alt="Footer" />
 
 </div>
