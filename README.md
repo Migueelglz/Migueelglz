@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:174B85,100:7437A6&height=230&section=header&text=MIGUEL%20GONZALEZ%20DASILVA&fontSize=39&fontColor=FFFFFF&desc=IT%20SUPPORT%20L3%20%7C%20MODERN%20WORKPLACE%20%7C%20AUTOMATION&descSize=16&descAlignY=68" width="100%" alt="Miguel González Dasilva" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:174B85,100:7437A6&height=230&section=header&text=MIGUEL%20GONZALEZ%20DASILVA&fontSize=39&fontColor=FFFFFF&desc=IT%20ENGINEER%20L3%20%7C%20MODERN%20WORKPLACE%20%7C%20AUTOMATION&descSize=16&descAlignY=68" width="100%" alt="Miguel González Dasilva" />
 
 ### 👨‍💻 Enterprise IT · Endpoint Management · Automation & AI
 
@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/miguel-gonzalez-dasilva-93337a27b/"><img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/Migueelglz"><img src="https://img.shields.io/badge/GitHub-Migueelglz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://millai.mintypeach7.chatgpt.site/#world"><img src="https://img.shields.io/badge/MillAI_World-Explore_My_Universe-7437A6?style=for-the-badge" alt="MillAI World" /></a>
+<a href="https://millai.mintypeach7.chatgpt.site/"><img src="https://img.shields.io/badge/MillAI_World-Explore_My_Universe-7437A6?style=for-the-badge" alt="MillAI World" /></a>
 
 <br>
 
@@ -31,7 +31,7 @@
 >
 > I'm an IT professional with **more than three years of experience** in enterprise technical support, endpoint management and IT operations.
 >
-> My professional experience spans **L1, L2 and L3 support**, with hands-on work involving Microsoft Intune, SCCM/MECM, PowerShell, Active Directory, Azure and ServiceNow.
+> My professional experience spans **L1, L2 and L3 support**, with hands-on work involving Microsoft Intune, SCCM/MECM, PowerShell, Active Directory, Azure, AI & automation.
 >
 > I've worked in enterprise environments involving banking, infrastructure, environmental services and logistics.
 >
