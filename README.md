@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Enterprise IT · Endpoint Management · Automation & AI
 
-**Microsoft Intune · SCCM/MECM · PowerShell · Azure · ServiceNow**
+**Microsoft Intune · SCCM/MECM · PowerShell · Azure**
 
 📍 Asturias, Spain
 
@@ -41,13 +41,13 @@
 
 ---
 
-<h2><a href="https://millai.mintypeach7.chatgpt.site/#world">🌍 MILLAI WORLD — MY DIGITAL UNIVERSE (Click on the link) </a></h2>
+<h2><a href="https://millai.mintypeach7.chatgpt.site/">🌍 MILLAI WORLD — MY DIGITAL UNIVERSE (Click on the link) </a></h2>
 
 <div align="center">
 
 <a href="https://millai.mintypeach7.chatgpt.site/#world"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:070E1E,45:174B85,100:8038B5&height=165&text=MILLAI%20WORLD&fontSize=47&fontColor=FFFFFF&fontAlignY=39&desc=MY%20LIFE%20-%20MY%20CAREER%20-%20MY%20UNIVERSE&descSize=16&descAlignY=75" width="100%" alt="Enter MillAI World" /></a>
 
-<a href="https://millai.mintypeach7.chatgpt.site/#world"><img src="./assets/millai-world-cover.png" width="100%" alt="MillAI World — conceptual illustration" /></a>
+<a href="https://millai.mintypeach7.chatgpt.site/"><img src="./assets/millai-world-cover.png" width="100%" alt="MillAI World — conceptual illustration" /></a>
 
 <sub>Conceptual illustration — MillAI World is under active development.</sub>
 
@@ -61,7 +61,7 @@
 
 <br><br>
 
-<a href="https://millai.mintypeach7.chatgpt.site/#world"><img src="https://img.shields.io/badge/ENTER_MILLAI_WORLD-EXPLORE_NOW-7437A6?style=for-the-badge" alt="Explore MillAI World" /></a>
+<a href="https://millai.mintypeach7.chatgpt.site/"><img src="https://img.shields.io/badge/ENTER_MILLAI_WORLD-EXPLORE_NOW-7437A6?style=for-the-badge" alt="Explore MillAI World" /></a>
 
 </div>
 
