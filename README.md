@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/github-banner.png" alt="Miguel González Banner" width="100%" />
+<a href="https://millai.mintypeach7.chatgpt.site/">
+  <img src="./millai-world-concept.png" alt="MillAI World" width="100%" />
+</a>
 
 # Miguel González 👋
 
