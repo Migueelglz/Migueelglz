@@ -1,9 +1,5 @@
 <div align="center">
 
-<a href="https://millai.mintypeach7.chatgpt.site/">
-   <img src="./assets/millai-world-cover.png" alt="MillAI World" width="100%" />
-</a>
-
 # Miguel González Dasilva👋
 
 ### IT Engineer L3 | Modern Workplace | Endpoint Management
@@ -84,6 +80,11 @@ Enterprise IT Engineer support and endpoint management across multiple environme
 ---
 
 # 🌟 FEATURED PROJECTS
+
+<a href="https://millai.mintypeach7.chatgpt.site/">
+   <img src="./assets/millai-world-cover.png" alt="MillAI World" width="100%" />
+</a>
+
 
 <div align="center">
 
